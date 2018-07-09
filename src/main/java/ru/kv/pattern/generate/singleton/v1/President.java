@@ -2,6 +2,10 @@ package ru.kv.pattern.generate.singleton.v1;
 
 import java.time.LocalDateTime;
 
+/**
+ * Singleton (Одиночка) - гарантирует, что у класса есть только один экземпляр,
+ * и предоставляет к нему глобальную точку доступа. 
+ */
 public class President {
 	
 	private static final President INSTANCE = new President();
