@@ -2,7 +2,6 @@ package ru.kv.pattern.generate.prototype.v2;
 
 public class Circle extends Shape {
 	
-	
 	private int radius;
 
 	

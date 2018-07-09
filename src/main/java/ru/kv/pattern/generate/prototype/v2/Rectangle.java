@@ -2,7 +2,6 @@ package ru.kv.pattern.generate.prototype.v2;
 
 public class Rectangle extends Shape {
 	
-	
 	private int width;
 	private int height;
 
